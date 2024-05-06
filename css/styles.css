@@ -104,7 +104,7 @@ header a:hover {
 }
 
 header a:focus {
-    color: #34db39;
+    color: #2b39ff; 
     text-decoration: none
 }
 
@@ -223,7 +223,7 @@ footer {
 }
 
 .btn-rounded-white:hover {
-    color: #34db8d;
+    color: #2b39ff;
     background: #fff;
     text-decoration: none
 }
