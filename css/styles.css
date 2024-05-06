@@ -92,12 +92,12 @@ header li {
 
 header a {
     display: block;
-    color: #34dbae;
+    color: #2b39ff;
     padding: 10px
 }
 
 header a:hover {
-    color: #21bb6b;
+    color: #2283bf;
     text-decoration: none;
     background: #eee;
     border-radius: 4px
